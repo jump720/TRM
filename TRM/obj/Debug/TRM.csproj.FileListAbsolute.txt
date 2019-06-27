@@ -1,0 +1,5 @@
+c:\users\e7d32\documents\visual studio 2017\Projects\TRM\TRM\bin\Debug\TRM.exe.config
+c:\users\e7d32\documents\visual studio 2017\Projects\TRM\TRM\bin\Debug\TRM.exe
+c:\users\e7d32\documents\visual studio 2017\Projects\TRM\TRM\bin\Debug\TRM.pdb
+c:\users\e7d32\documents\visual studio 2017\Projects\TRM\TRM\obj\Debug\TRM.exe
+c:\users\e7d32\documents\visual studio 2017\Projects\TRM\TRM\obj\Debug\TRM.pdb
